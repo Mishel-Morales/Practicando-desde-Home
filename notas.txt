@@ -1,0 +1,3 @@
+Practicando comandos básicos de git en un archivo *.txt.
+
+Modificando archivo después de subirlo a GitHub.
